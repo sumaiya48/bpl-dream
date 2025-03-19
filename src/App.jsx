@@ -112,17 +112,22 @@ const handleChoosePlayer = (player) => {
           ></AvailablePlayers>
         )}
         <div className='lg:mb-80 mb-5' >
-        {activeTab === 'selected' && <SelectedPlayers
-        choosePlayer ={choosePlayer}
-        setChoosePlayer={setChoosePlayer}
-        ></SelectedPlayers>
-        }
-        <button
-  onClick={() => setActiveTab('available')} // Change to show available players
-  className="bg-red-600 mt-2 text-white py-2 px-4 rounded"
->
-  Add More Player
-</button>
+        {activeTab === 'selected' && (
+  <div>
+    <SelectedPlayers
+      choosePlayer={choosePlayer}
+      setChoosePlayer={setChoosePlayer}
+    />
+    <button
+      onClick={() => setActiveTab('available')} // Change to show available players
+      className="bg-red-600 mt-2 text-white py-2 px-4 rounded"
+    >
+      Add Player
+    </button>
+  </div>
+)}
+
+
         </div>
       </main>
 
