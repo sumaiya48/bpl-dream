@@ -1,0 +1,102 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": "2,000,000"
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-break",
+    "biddingPrice": "1,800,000"
+  },
+  {
+    "playerId": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": "2,500,000"
+  },
+  {
+    "playerId": 4,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Leg-break",
+    "biddingPrice": "1,700,000"
+  },
+  {
+    "playerId": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-break",
+    "biddingPrice": "1,500,000"
+  },
+  {
+    "playerId": 6,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": "2,100,000"
+  },
+  {
+    "playerId": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg-break",
+    "biddingPrice": "2,300,000"
+  },
+  {
+    "playerId": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": "1,900,000"
+  },
+  {
+    "playerId": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "2,400,000"
+  },
+  {
+    "playerId": 10,
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "image": "https://i.postimg.cc/nrLnbdBQ/Virat-Kohli-Height-Weight-Age-Wife-Family-Affair.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Leg-break",
+    "biddingPrice": "1,600,000"
+  }
+]
