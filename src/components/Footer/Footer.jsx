@@ -4,7 +4,7 @@ const Footer = () => {
         <div className="bg-[#06091A] text-white">
 
             <div className="flex justify-center lg:pb-5 lg:pt-60 ">
-            <img className=" " src="/src/assets/logo-footer.png" alt="" />
+            <img className=" " src='/assets/logo-footer.png' alt="" />
 
             </div>
             <div className="footer sm:footer-horizontal  lg:pl-64 p-10">

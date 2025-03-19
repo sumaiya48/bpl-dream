@@ -20,7 +20,7 @@ const Navbar = ({claimCredit}) => {
         
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl w-[70px]"><img src="/src/assets/logo.png" alt="" /></a>
+    <a className="btn btn-ghost text-xl w-[70px]"><img src="/public/assets/logo.png" alt="" /></a>
   </div>
   <div className="navbar-end hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

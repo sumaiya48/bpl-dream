@@ -2,7 +2,7 @@
 const Newsletter = () => {
     return (
         <div className="border-2 p-3 rounded-xl w-11/12 mb-3 lg:w-9/12 mx-auto bg-white bg-opacity-30">
-            <div className="text-center space-y-1 lg:space-y-3 py-10 lg:py-24 rounded-xl bg-[url('/src/assets/bg-shadow.png')] bg-cover bg-white">
+            <div className="text-center space-y-1 lg:space-y-3 py-10 lg:py-24 rounded-xl bg-[url('/assets/bg-shadow.png')] bg-cover bg-white">
             <h3 className="text-xl lg:text-3xl font-bold">Subscribe to our Newsletter</h3>
             <p className="text-xs lg:text-lg text-gray-400">Get the latest updates and news right in your inbox!</p>
             <div className="space-y-2">
